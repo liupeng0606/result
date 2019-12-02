@@ -12,7 +12,7 @@ smi-sup        0.772              0.786           0.826
 
 
 FaceBook         10                 20             40                     all
-sup
+sup             0.575
 smi-sup
 
 

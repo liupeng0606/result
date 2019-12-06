@@ -12,7 +12,7 @@ smi-gan            0.0/0.0
 
 
 CVAT             all data(V/A)
-bert              0.839/0.545                              
+bert              0.839/0.550                              
 sup               0.840/0.561     
 smi-gan            0.0/0.0
 

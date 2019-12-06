@@ -19,8 +19,8 @@ smi-gan            0.0/0.0
 
 
 FaceBook       all data(V/A)
-bert            0.678/0.815    
-sup             0.682/0.818
+bert            0.682/0.815    
+sup             0.688/0.818
 smi-Gan          0.0/0.0
 
 

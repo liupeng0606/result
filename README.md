@@ -11,7 +11,7 @@ smi-sup     0.647/0.465/0.346         0.651/0.489/0.382　   0.668/0.512/0.391
 
 
 
-CVAT                 all
+CVAT               all (V/A)
 bert              0.839/0.545
 infoGan                              
 sup               0.840/0.561       
@@ -20,7 +20,7 @@ sup               0.840/0.561
 
 
 
-FaceBook          all
+FaceBook         all (V/A)
 bert            0.678/0.815
 infoGan    
 sup             0.682/0.818

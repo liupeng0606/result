@@ -25,7 +25,7 @@ sup               0.840/0.561
 FaceBook          all
 bert            0.678/0.815
 infoGan    
-sup             0.682/0.816
+sup             0.682/0.814
 
 
 

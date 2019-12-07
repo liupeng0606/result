@@ -6,7 +6,7 @@ smi-gan     0.552/0.351                  0.600/0.408           0.642/0.467
 smi-sup     0.659/0.465                  0.675/0.491           0.691/0.512
 
 
-Emobank         all data (V/A/D)
+Emobank         all data (V/A)
 bert             0.671/0.509                             
 sup              0.681/0.522    
 smi-gan          0.652/0.489

@@ -14,14 +14,14 @@ smi-gan          0.652/0.489/0.326
 CVAT             all data(V/A)
 bert              0.840/0.550                              
 sup               0.847/0.561     
-smi-gan            0.0/0.0
+smi-gan           0.842/0.546
 
 
 
 FaceBook       all data(V/A)
 bert            0.682/0.812    
 sup             0.688/0.818
-smi-Gan          0.0/0.0
+smi-Gan         0.664/0.801
 
 
 

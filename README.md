@@ -7,9 +7,10 @@ smi-supervised  0.660/0.465                  0.675/0.491           0.691/0.512
 
 
 Emobank use_ratio_unlabel_data
- 10     20    30    40    50    60    70    80 
+    10      20     30     40     50     60     70     80 
 
-
+v
+a
 
 
 

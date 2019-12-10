@@ -6,7 +6,7 @@ smi-gan         0.552/0.351                  0.600/0.408           0.637/0.467
 smi-supervised  0.670/0.465                  0.682/0.491           0.695/0.512
 
 
-Emobank use_ratio_unlabel_data  
+Emobank use_ratios_unlabel_data  
         10         20         30         40        50        60        70        80 
 
 v     0.641      0.652       0.668      0.664     0.667     0.668    0.664      0.667
